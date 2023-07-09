@@ -1,5 +1,5 @@
 
-//Program to accept 10 Bills to display their Summation .
+//Swapping two numbers without third variable.
 
 #include<stdio.h>
 #include<conio.h>
